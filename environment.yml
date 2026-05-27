@@ -13,5 +13,4 @@ dependencies:
   - bokeh
   - dask
   - tensorflow
-  - scikit-learn
-  - opencv-python
+
