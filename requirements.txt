@@ -1,15 +1,14 @@
-numpy as np
-matplotlib.pyplot as plt
+numpy
+matplotlib.pyplot
 
-tensorflow as tf
-tensorflow.keras.layers import *
-tensorflow.keras.losses import *
-tensorflow.keras.activations import *
-keras.utils import plot_model
-keras import callbacks
-cv2 as cv
+tensorflow
+tensorflow.keras.layers
+tensorflow.keras.losses
+tensorflow.keras.activations
+keras.utils
+keras 
+cv2
 
-sklearn.linear_model import LogisticRegression
-sklearn.metrics import accuracy_score, confusion_matrix,mean_squared_error,mean_absolute_error
-
-import time
+sklearn.linear_model
+sklearn.metrics 
+time
