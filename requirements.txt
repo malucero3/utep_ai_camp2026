@@ -7,8 +7,7 @@ tensorflow.keras.losses
 tensorflow.keras.activations
 keras.utils
 keras 
-cv2
+opencv-python
 
-sklearn.linear_model
-sklearn.metrics 
+scikit-learn
 time
